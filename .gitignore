@@ -351,3 +351,6 @@ cython_debug/
 .pixi
 *.egg-info
 
+
+# Personal copy of the book (copyrighted, do not commit)
+book/*.pdf
